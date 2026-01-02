@@ -211,4 +211,4 @@ Open an issue on GitHub or reach out. We'd love to hear how you're using it!
 
 ---
 
-*Made with ❤️ for students who deserve fair grades*
+*Made by ClaRity Group, for students who deserve fair grades*
